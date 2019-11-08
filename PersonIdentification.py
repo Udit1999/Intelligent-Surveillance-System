@@ -9,13 +9,12 @@ from IoT import adaIO
 from playsound import playsound
 
 
-#import mainCam
 
 config ={
-   "apiKey": "AIzaSyDIB8LHS8TNLALojBTPVnm_hNQHcTfOd4M",
-   "authDomain": "plucky-vault-181916.firebaseapp.com",
-   "databaseURL": "https://plucky-vault-181916.firebaseio.com",
-   "storageBucket": "plucky-vault-181916.appspot.com",
+   "apiKey": "**************",
+   "authDomain": "**************.firebaseapp.com",
+   "databaseURL": "https://**************.firebaseio.com",
+   "storageBucket": "****************.appspot.com",
 
  }
 
